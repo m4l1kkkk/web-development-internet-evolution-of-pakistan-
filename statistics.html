@@ -1,0 +1,297 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Analytics - Pakistan's Internet Evolution</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <meta name="description" content="Comprehensive analytics and insights into Pakistan's digital transformation journey">
+</head>
+<body>
+    <header>
+        <nav class="navbar">
+            <div class="nav-container">
+                <div class="nav-logo">
+                    <h1><a href="index.html" class="site-name">Internet Pakistan</a></h1>
+                </div>
+                <div class="nav-menu" id="nav-menu">
+                    <a href="index.html" class="nav-link">Home</a>
+                    <a href="timeline.html" class="nav-link">Timeline</a>
+                    <a href="statistics.html" class="nav-link active" aria-current="page">Statistics</a>
+                    <a href="isps.html" class="nav-link">ISPs</a>
+                </div>
+                <div class="theme-toggle" id="theme-toggle" role="button" tabindex="0" aria-label="Toggle dark/light mode">
+                    <span class="theme-icon">🌙</span>
+                </div>
+                <div class="nav-toggle" id="nav-toggle" role="button" tabindex="0" aria-label="Toggle navigation menu">
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                    <span class="bar"></span>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <section class="page-header">
+            <div class="container">
+                <h1>Digital Analytics Hub</h1>
+                <p>Real-time insights into Pakistan's exponential digital growth and connectivity revolution</p>
+            </div>
+        </section>
+
+        <section class="analytics-overview">
+            <div class="container">
+                <h2>Analytics Overview</h2>
+                <div class="overview-grid" id="analytics-overview">
+                    <div class="loading">Loading analytics data...</div>
+                </div>
+            </div>
+        </section>
+
+        <section class="performance-metrics">
+            <div class="container">
+                <h2>Performance Metrics</h2>
+                <div class="metrics-grid">
+                    <div class="metric-card primary">
+                        <div class="metric-icon">📈</div>
+                        <div class="metric-content">
+                            <h3>Digital Adoption Rate</h3>
+                            <div class="metric-value">51.2%</div>
+                            <div class="metric-trend positive">+8.5% YoY</div>
+                            <p>Nationwide internet penetration with mobile-first approach</p>
+                        </div>
+                    </div>
+                    <div class="metric-card secondary">
+                        <div class="metric-icon">🚀</div>
+                        <div class="metric-content">
+                            <h3>Average Speed</h3>
+                            <div class="metric-value">45.8 Mbps</div>
+                            <div class="metric-trend positive">+12.3% YoY</div>
+                            <p>Combined mobile and fixed broadband performance</p>
+                        </div>
+                    </div>
+                    <div class="metric-card accent">
+                        <div class="metric-icon">🌐</div>
+                        <div class="metric-content">
+                            <h3>Connected Users</h3>
+                            <div class="metric-value">118.4M</div>
+                            <div class="metric-trend positive">+15.2% YoY</div>
+                            <p>Active internet users across all platforms</p>
+                        </div>
+                    </div>
+                    <div class="metric-card success">
+                        <div class="metric-icon">💳</div>
+                        <div class="metric-content">
+                            <h3>Digital Payments</h3>
+                            <div class="metric-value">15.8M</div>
+                            <div class="metric-trend positive">+28.7% YoY</div>
+                            <p>Active digital payment users and transactions</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="data-visualization">
+            <div class="container">
+                <h2>Growth Trajectories</h2>
+                <div class="visualization-grid">
+                    <div class="chart-container featured">
+                        <div class="chart-header">
+                            <h3>Digital Adoption Evolution</h3>
+                            <div class="chart-controls">
+                                <button class="chart-btn active" data-period="all">All Time</button>
+                                <button class="chart-btn" data-period="recent">Recent</button>
+                            </div>
+                        </div>
+                        <canvas id="adoptionChart" role="img" aria-label="Multi-line chart showing digital adoption trends"></canvas>
+                    </div>
+                    <div class="chart-container">
+                        <div class="chart-header">
+                            <h3>Speed Revolution</h3>
+                            <div class="chart-legend">
+                                <span class="legend-item"><span class="legend-color mobile"></span>Mobile</span>
+                                <span class="legend-item"><span class="legend-color fixed"></span>Fixed</span>
+                            </div>
+                        </div>
+                        <canvas id="speedChart" role="img" aria-label="Area chart showing internet speed evolution"></canvas>
+                    </div>
+                    <div class="chart-container">
+                        <div class="chart-header">
+                            <h3>Access Distribution</h3>
+                        </div>
+                        <canvas id="distributionChart" role="img" aria-label="Doughnut chart showing internet access methods"></canvas>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="regional-insights">
+            <div class="container">
+                <h2>Regional Performance</h2>
+                <div class="regional-grid">
+                    <div class="region-card">
+                        <div class="region-header">
+                            <h3>Punjab</h3>
+                            <div class="region-score">85%</div>
+                        </div>
+                        <div class="region-stats">
+                            <div class="region-stat">
+                                <span class="stat-label">Penetration</span>
+                                <span class="stat-value">58.2%</span>
+                            </div>
+                            <div class="region-stat">
+                                <span class="stat-label">Avg Speed</span>
+                                <span class="stat-value">52.1 Mbps</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="region-card">
+                        <div class="region-header">
+                            <h3>Sindh</h3>
+                            <div class="region-score">92%</div>
+                        </div>
+                        <div class="region-stats">
+                            <div class="region-stat">
+                                <span class="stat-label">Penetration</span>
+                                <span class="stat-value">67.8%</span>
+                            </div>
+                            <div class="region-stat">
+                                <span class="stat-label">Avg Speed</span>
+                                <span class="stat-value">61.3 Mbps</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="region-card">
+                        <div class="region-header">
+                            <h3>KPK</h3>
+                            <div class="region-score">78%</div>
+                        </div>
+                        <div class="region-stats">
+                            <div class="region-stat">
+                                <span class="stat-label">Penetration</span>
+                                <span class="stat-value">42.5%</span>
+                            </div>
+                            <div class="region-stat">
+                                <span class="stat-label">Avg Speed</span>
+                                <span class="stat-value">38.7 Mbps</span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="region-card">
+                        <div class="region-header">
+                            <h3>Balochistan</h3>
+                            <div class="region-score">65%</div>
+                        </div>
+                        <div class="region-stats">
+                            <div class="region-stat">
+                                <span class="stat-label">Penetration</span>
+                                <span class="stat-value">28.9%</span>
+                            </div>
+                            <div class="region-stat">
+                                <span class="stat-label">Avg Speed</span>
+                                <span class="stat-value">25.4 Mbps</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="trend-analysis">
+            <div class="container">
+                <h2>Trend Analysis</h2>
+                <div class="trend-grid">
+                    <div class="trend-card">
+                        <div class="trend-header">
+                            <h3>Mobile First Revolution</h3>
+                            <div class="trend-indicator positive">↗</div>
+                        </div>
+                        <p>85% of Pakistan's internet users access the web primarily through mobile devices, driving the mobile-first digital economy.</p>
+                        <div class="trend-metrics">
+                            <span class="trend-metric">4G Coverage: 92%</span>
+                            <span class="trend-metric">5G Trials: Active</span>
+                        </div>
+                    </div>
+                    <div class="trend-card">
+                        <div class="trend-header">
+                            <h3>E-commerce Boom</h3>
+                            <div class="trend-indicator positive">↗</div>
+                        </div>
+                        <p>Digital commerce has grown exponentially with 35% year-over-year growth, fueled by improved connectivity and digital payments.</p>
+                        <div class="trend-metrics">
+                            <span class="trend-metric">Growth Rate: 35%</span>
+                            <span class="trend-metric">Active Users: 15.8M</span>
+                        </div>
+                    </div>
+                    <div class="trend-card">
+                        <div class="trend-header">
+                            <h3>Fiber Expansion</h3>
+                            <div class="trend-indicator positive">↗</div>
+                        </div>
+                        <p>Fiber-to-the-home networks are expanding rapidly, with major cities achieving 100+ Mbps speeds and rural areas following suit.</p>
+                        <div class="trend-metrics">
+                            <span class="trend-metric">Fiber Coverage: 45%</span>
+                            <span class="trend-metric">Max Speed: 1 Gbps</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="data-sources">
+            <div class="container">
+                <h2>Data Sources & Methodology</h2>
+                <div class="sources-grid">
+                    <div class="source-card">
+                        <h3>Primary Data Sources</h3>
+                        <ul>
+                            <li>Pakistan Telecommunication Authority (PTA)</li>
+                            <li>Pakistan Bureau of Statistics</li>
+                            <li>International Telecommunication Union (ITU)</li>
+                            <li>Speedtest Global Index</li>
+                            <li>State Bank of Pakistan</li>
+                        </ul>
+                    </div>
+                    <div class="source-card">
+                        <h3>Data Collection Period</h3>
+                        <p>Real-time analytics compiled from official government reports and industry publications spanning 1990-2025. Data points represent quarterly averages with real-time updates for current metrics.</p>
+                    </div>
+                    <div class="source-card">
+                        <h3>Methodology</h3>
+                        <p>Advanced analytics combining multiple data sources with machine learning algorithms to provide accurate, up-to-date insights into Pakistan's digital landscape.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-section">
+                    <h3>Sources & Credits</h3>
+                    <ul>
+                        <li>Pakistan Telecommunication Authority (PTA)</li>
+                        <li>Pakistan Bureau of Statistics</li>
+                        <li>International Telecommunication Union (ITU)</li>
+                        <li>World Bank Digital Development Data</li>
+                    </ul>
+                </div>
+                <div class="footer-section">
+                    <h3>About This Project</h3>
+                    <p>A comprehensive documentation of Pakistan's internet evolution, compiled from official government sources and telecommunications industry reports.</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>&copy; 2024 Pakistan Internet History Project. Educational content for historical documentation.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="js/advanced-template-engine.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>

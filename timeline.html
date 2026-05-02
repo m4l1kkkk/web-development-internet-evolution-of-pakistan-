@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Timeline - History of the Internet in Pakistan</title>
+  <link rel="stylesheet" href="style.css" />
+  <meta name="description" content="Interactive timeline of Pakistan's internet development from 2000 to present" />
+</head>
+<body>
+  <header>
+    <nav class="navbar" role="navigation" aria-label="Main">
+      <div class="nav-container">
+       
+        <div class="nav-logo">
+          <h1><a href="index.html" class="site-name">Internet Pakistan</a></h1>
+        </div>
+
+        <div class="nav-menu" id="nav-menu">
+          <a href="index.html" class="nav-link">Home</a>
+          <a href="timeline.html" class="nav-link active" aria-current="page">Timeline</a>
+          <a href="statistics.html" class="nav-link">Statistics</a>
+          <a href="isps.html" class="nav-link">ISPs</a>
+        </div>
+
+        <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Toggle dark/light mode">
+          <span class="theme-icon" aria-hidden="true">🌙</span>
+        </button>
+
+        <button class="nav-toggle" id="nav-toggle" type="button" aria-label="Toggle navigation menu">
+          <span class="bar" aria-hidden="true"></span>
+          <span class="bar" aria-hidden="true"></span>
+          <span class="bar" aria-hidden="true"></span>
+        </button>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="page-header">
+      <div class="container">
+        
+        <h1>Digital Revolution Timeline</h1>
+        <p>Witness the extraordinary journey of Pakistan's digital transformation through revolutionary milestones</p>
+      </div>
+    </section>
+
+    <section class="timeline-controls">
+      <div class="container">
+        <div class="filter-controls">
+         
+          <h2>Filter by Decade:</h2>
+          <button class="filter-btn active" data-decade="all" aria-pressed="true">All Years</button>
+          <button class="filter-btn" data-decade="1990s" aria-pressed="false">1990s</button>
+          <button class="filter-btn" data-decade="2000s" aria-pressed="false">2000s</button>
+          <button class="filter-btn" data-decade="2010s" aria-pressed="false">2010s</button>
+          <button class="filter-btn" data-decade="2020s" aria-pressed="false">2020s</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="timeline-section">
+      <div class="container">
+        <h2>Timeline of Events</h2>
+        <div class="timeline" id="timeline">
+          <div class="loading" id="loading">Loading timeline events...</div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-section">
+          <h3>Sources & Credits</h3>
+          <ul>
+            <li>Pakistan Telecommunication Authority (PTA)</li>
+            <li>Pakistan Bureau of Statistics</li>
+            <li>International Telecommunication Union (ITU)</li>
+            <li>World Bank Digital Development Data</li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h3>About This Project</h3>
+          <p>A comprehensive documentation of Pakistan's internet evolution, compiled from official government sources and telecommunications industry reports.</p>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2024 Pakistan Internet History Project. Educational content for historical documentation.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

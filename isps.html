@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>ISPs - History of the Internet in Pakistan</title>
+  <link rel="stylesheet" href="style.css"/>
+  <meta name="description" content="Comprehensive list of Internet Service Providers in Pakistan"/>
+</head>
+<body>
+  <header>
+    <nav class="navbar" role="navigation" aria-label="Main">
+      <div class="nav-container">
+        <div class="nav-logo">
+          <h1><a href="index.html" class="site-name">Internet Pakistan</a></h1>
+        </div>
+
+        <div class="nav-menu" id="nav-menu">
+          <a href="index.html" class="nav-link">Home</a>
+          <a href="timeline.html" class="nav-link">Timeline</a>
+          <a href="statistics.html" class="nav-link">Statistics</a>
+          <a href="isps.html" class="nav-link active" aria-current="page">ISPs</a>
+        </div>
+
+        <button class="theme-toggle" id="theme-toggle" type="button" aria-label="Toggle dark/light mode">
+          <span class="theme-icon" aria-hidden="true">🌙</span>
+        </button>
+
+        <button class="nav-toggle" id="nav-toggle" type="button" aria-label="Toggle navigation menu">
+          <span class="bar" aria-hidden="true"></span>
+          <span class="bar" aria-hidden="true"></span>
+          <span class="bar" aria-hidden="true"></span>
+        </button>
+      </div>
+    </nav>
+  </header>
+
+  <main>
+    <section class="page-header">
+      <div class="container">
+        <h1>Digital Connectivity Architects</h1>
+        <p>Meet the visionary providers building Pakistan's digital infrastructure</p>
+      </div>
+    </section>
+
+    <section class="isp-controls">
+      <div class="container">
+        <div class="filter-controls">
+          <h2>Filter by Category</h2>
+          <button class="filter-btn active" data-category="all" aria-pressed="true">All ISPs</button>
+          <button class="filter-btn" data-category="major" aria-pressed="false">Major Operators</button>
+          <button class="filter-btn" data-category="regional" aria-pressed="false">Regional ISPs</button>
+          <button class="filter-btn" data-category="wireless" aria-pressed="false">Wireless ISPs</button>
+          <button class="filter-btn" data-category="fiber" aria-pressed="false">Fiber Providers</button>
+        </div>
+
+        <div class="search-controls">
+          <label for="isp-search" class="sr-only">Search Internet Service Providers</label>
+          <input
+            type="text"
+            id="isp-search"
+            placeholder="Search ISPs..."
+            class="search-input"
+            aria-describedby="isp-search-help"
+            autocomplete="off"
+          />
+          <p id="isp-search-help" class="sr-only">Type an ISP name or keyword to filter the list.</p>
+        </div>
+      </div>
+    </section>
+
+    <section class="isp-section">
+      <div class="container">
+        <h2>Internet Service Providers</h2>
+        <div class="isp-grid" id="isp-grid">
+          <div class="loading" id="loading">Loading ISP information...</div>
+        </div>
+      </div>
+    </section>
+
+    <section class="isp-statistics">
+      <div class="container">
+        <h2>ISP Market Overview</h2>
+        <div class="market-stats">
+          <div class="stat-card">
+            <h3>3,400+</h3>
+            <p>Licensed ISPs</p>
+            <small>Total licenses issued by PTA</small>
+          </div>
+          <div class="stat-card">
+            <h3>150+</h3>
+            <p>Active ISPs</p>
+            <small>Providing commercial services</small>
+          </div>
+          <div class="stat-card">
+            <h3>5</h3>
+            <p>Major Operators</p>
+            <small>Controlling 80%+ market share</small>
+          </div>
+          <div class="stat-card">
+            <h3>2003</h3>
+            <p>Market Liberalization</p>
+            <small>Private ISPs allowed</small>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-section">
+          <h2 class="sr-only">Footer</h2>
+          <h3>Sources & Credits</h3>
+          <ul>
+            <li>Pakistan Telecommunication Authority (PTA)</li>
+            <li>Pakistan Bureau of Statistics</li>
+            <li>International Telecommunication Union (ITU)</li>
+            <li>World Bank Digital Development Data</li>
+          </ul>
+        </div>
+        <div class="footer-section">
+          <h3>About This Project</h3>
+          <p>A comprehensive documentation of Pakistan's internet evolution, compiled from official government sources and telecommunications industry reports.</p>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2024 Pakistan Internet History Project. Educational content for historical documentation.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
