@@ -1,0 +1,42 @@
+[
+  {
+    "label": "Internet Users (2023)",
+    "value": 118000000,
+    "description": "Total number of internet users in Pakistan as of 2023, representing significant growth from just 1.2 million users in 2000. Source: Pakistan Telecommunication Authority (PTA)"
+  },
+  {
+    "label": "Internet Penetration Rate",
+    "value": "51%",
+    "description": "Percentage of Pakistan's population with access to the internet as of 2023, up from less than 0.1% in 2000. Mobile internet drives most of this growth. Source: PTA Annual Report 2023"
+  },
+  {
+    "label": "Mobile Broadband Users",
+    "value": 100500000,
+    "description": "Number of mobile broadband subscribers in Pakistan, accounting for approximately 85% of all internet users. 4G subscribers represent the majority of mobile internet users. Source: PTA Quarterly Reports"
+  },
+  {
+    "label": "Fixed Broadband Subscribers",
+    "value": 2800000,
+    "description": "Number of fixed broadband connections including DSL, fiber, and wireless broadband. Growth has been steady with fiber optic connections showing fastest expansion. Source: PTA Statistics"
+  },
+  {
+    "label": "Licensed Internet Service Providers",
+    "value": 3424,
+    "description": "Total number of licensed ISPs in Pakistan as of 2023, including both active and inactive licenses. This represents significant industry growth and competition since 2000. Source: PTA Licensed ISP List"
+  },
+  {
+    "label": "Average Internet Speed (Fixed)",
+    "value": "15.5 Mbps",
+    "description": "Average download speed for fixed broadband connections in Pakistan as measured by global speed tests. Significant improvement from sub-1 Mbps speeds in early 2000s. Source: Speedtest Global Index"
+  },
+  {
+    "label": "E-commerce Growth Rate (2022-2023)",
+    "value": "35%",
+    "description": "Year-over-year growth in e-commerce transactions, driven by improved internet infrastructure and digital payment adoption. Online shopping has become mainstream. Source: State Bank of Pakistan"
+  },
+  {
+    "label": "Digital Payment Users",
+    "value": 15000000,
+    "description": "Number of active digital payment users including mobile wallets, online banking, and digital payment platforms. Shows rapid adoption of fintech solutions. Source: State Bank of Pakistan Payment Systems Review"
+  }
+]

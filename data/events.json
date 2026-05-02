@@ -1,0 +1,137 @@
+[
+  {
+    "year": 1990,
+    "event": "Digital Dawn Begins",
+    "details": "The first digital spark ignited at the University of Karachi with Pakistan's inaugural email connection via UUCP protocol. This humble beginning marked the birth of digital communication in the nation, opening a gateway to global connectivity."
+  },
+  {
+    "year": 1992,
+    "event": "First Internet Gateway Opens",
+    "details": "Pakistan's digital frontier expanded as the University of Engineering and Technology Lahore became the nation's first internet gateway. Satellite links connected Pakistani academia to the global digital network, marking a revolutionary step forward."
+  },
+  {
+    "year": 1994,
+    "event": "Mobile Revolution Pioneer Emerges",
+    "details": "Mobilink (now Jazz) burst onto the scene as Pakistan's first mobile telecommunications pioneer. This visionary company would later become the nation's digital connectivity champion, revolutionizing how Pakistanis connect and communicate."
+  },
+  {
+    "year": 1995,
+    "event": "Commercial Internet Takes Flight",
+    "details": "Brain Net launched Pakistan's first commercial internet service, bringing dial-up connectivity to Karachi's businesses and individuals. This groundbreaking moment marked the dawn of Pakistan's commercial digital era."
+  },
+  {
+    "year": 1996,
+    "event": "Digital Infrastructure Giant Born",
+    "details": "Pakistan Telecommunication Company Limited (PTCL) emerged as the nation's telecommunications powerhouse, transitioning from government control to a public limited company. This strategic move laid the foundation for Pakistan's digital infrastructure backbone."
+  },
+  {
+    "year": 1997,
+    "event": "Digital Traffic Hub Launches",
+    "details": "Karachi became home to Pakistan's first Internet Exchange Point (IXP), creating a digital traffic hub that revolutionized local internet routing. This innovation dramatically reduced dependency on international connections and accelerated domestic data exchange."
+  },
+  {
+    "year": 1998,
+    "event": "Digital Governance Framework Established",
+    "details": "The Pakistan Telecommunication Authority (PTA) was born as the nation's digital governance guardian. This regulatory powerhouse would shape Pakistan's telecommunications landscape and drive innovation through strategic policy frameworks."
+  },
+  {
+    "year": 1999,
+    "event": "Global Digital Bridge Activated",
+    "details": "Pakistan plunged into the global digital ocean with its first submarine cable connection via SEA-ME-WE 3. This underwater digital highway dramatically enhanced international connectivity and slashed latency, connecting Pakistan to the world at lightning speed."
+  },
+  {
+    "year": 2000,
+    "event": "Enterprise Connectivity Pioneer Launches",
+    "details": "Transworld emerged as Pakistan's enterprise connectivity champion, pioneering high-speed fiber internet and corporate solutions. This visionary company would become the backbone of Pakistan's business digital infrastructure, delivering world-class connectivity services."
+  },
+  {
+    "year": 2000,
+    "event": "Nationwide Digital Network Expansion",
+    "details": "PTCL unleashed a nationwide digital infrastructure revolution, bringing dial-up connectivity to major cities across Pakistan. Internet cafes became the heartbeat of digital access, transforming how ordinary Pakistanis experienced the online world."
+  },
+  {
+    "year": 2001,
+    "event": "Always-On Connectivity Revolution",
+    "details": "PTCL revolutionized Pakistan's digital landscape by launching DSL services in Karachi, Lahore, and Islamabad. This breakthrough introduced always-on internet connectivity, forever changing how Pakistani households and businesses experienced the digital world."
+  },
+  {
+    "year": 2003,
+    "event": "Competition Unleashes Innovation",
+    "details": "Pakistan's telecommunications sector exploded with opportunity as deregulation opened the floodgates for private ISPs. Visionary companies like Linkdotnet, Cyber Internet Services, and WorldCall entered the arena, igniting a competitive revolution that would drive innovation and affordability."
+  },
+  {
+    "year": 2004,
+    "event": "Wireless Broadband Revolution",
+    "details": "Wateen Telecom shattered connectivity barriers by launching Pakistan's first commercial WiMAX network. This wireless broadband breakthrough provided a lifeline to areas with limited cable infrastructure, democratizing high-speed internet access across the nation."
+  },
+  {
+    "year": 2007,
+    "event": "Global Connectivity Superhighway",
+    "details": "Pakistan's digital arteries expanded with the SEA-ME-WE 4 submarine cable system, creating a global connectivity superhighway. This massive infrastructure upgrade turbocharged internet speeds and slashed international data costs, connecting Pakistan to the world like never before."
+  },
+  {
+    "year": 2008,
+    "event": "Regulatory Revolution Sparks Growth",
+    "details": "PTA unleashed a regulatory revolution that transformed Pakistan's telecommunications landscape. These comprehensive reforms ignited fierce competition, driving down prices and dramatically improving internet services across the nation."
+  },
+  {
+    "year": 2012,
+    "event": "Mobile Internet Explosion Ignites",
+    "details": "Pakistan's mobile internet revolution exploded as affordable smartphones and data plans flooded the market. Operators like Mobilink, Telenor, and Zong unleashed 2G and 3G services, transforming mobile devices into digital lifelines for millions of Pakistanis."
+  },
+  {
+    "year": 2014,
+    "event": "High-Speed Mobile Revolution Launches",
+    "details": "Pakistan's digital future accelerated with a historic $1.1 billion auction of 3G and 4G licenses. Mobilink Jazz, Telenor, Ufone, and Zong secured the keys to high-speed mobile internet, officially launching Pakistan into the era of lightning-fast mobile connectivity."
+  },
+  {
+    "year": 2016,
+    "event": "Fiber Optic Superhighway Unleashed",
+    "details": "Pakistan's digital infrastructure leaped into the future as major telecom companies unleashed a nationwide fiber optic revolution. PTCL, Transworld, and other providers began offering fiber-to-the-home services, delivering lightning-fast internet speeds that transformed urban connectivity."
+  },
+  {
+    "year": 2018,
+    "event": "CPEC Digital Infrastructure Revolution",
+    "details": "The China-Pakistan Economic Corridor unleashed a digital infrastructure revolution, pouring massive investments into submarine cables, data centers, and telecommunications equipment. This strategic partnership turbocharged Pakistan's internet capacity and reliability, creating a digital backbone for the future."
+  },
+  {
+    "year": 2020,
+    "event": "Digital Acceleration Amid Global Crisis",
+    "details": "The COVID-19 pandemic became an unexpected catalyst for Pakistan's digital revolution. As remote work, online education, and digital services became essential, internet traffic skyrocketed by over 50%, accelerating digital adoption across every sector of society."
+  },
+  {
+    "year": 2021,
+    "event": "5G Future Beckons & Digital Pakistan Vision",
+    "details": "Pakistan's digital future arrived as Jazz and Zong conducted groundbreaking 5G trials in major cities. Simultaneously, the government launched the visionary Digital Pakistan initiative, setting the stage for comprehensive digital transformation across government services and the entire economy."
+  },
+  {
+    "year": 2022,
+    "event": "Satellite Internet Revolution on Horizon",
+    "details": "Pakistan's digital ambitions soared to new heights as the nation explored Starlink and satellite internet services. This revolutionary approach promised to bridge connectivity gaps in remote areas, sparking discussions about regulatory frameworks for next-generation satellite-based internet services."
+  },
+  {
+    "year": 2023,
+    "event": "Digital Majority Milestone Achieved",
+    "details": "Pakistan celebrated a historic milestone as internet penetration soared to 51% of the population, connecting over 118 million digital citizens. Mobile internet dominated with 85% of connections, while 4G coverage expanded into rural frontiers. Major ISPs including Transworld continued their relentless fiber network expansion across the nation."
+  },
+  {
+    "year": 2024,
+    "event": "5G Revolution Countdown Begins",
+    "details": "Pakistan Telecommunication Authority ignited the 5G revolution countdown by finalizing spectrum auction plans. Major operators including Jazz, Telenor, and Zong conducted extensive 5G trials across Karachi, Lahore, and Islamabad, setting the stage for the most transformative mobile technology launch in Pakistan's history."
+  },
+  {
+    "year": 2024,
+    "event": "Fiber Optic Revolution Accelerates",
+    "details": "PTCL and private operators unleashed an unprecedented fiber optic expansion, bringing lightning-fast FTTH networks to over 2 million households. Gigabit internet speeds up to 1 Gbps became a reality in major cities, transforming Pakistan's digital landscape forever."
+  },
+  {
+    "year": 2025,
+    "event": "5G Era Officially Launches",
+    "details": "Pakistan officially entered the 5G era with commercial services launching in major cities. The revolutionary deployment focused on Karachi, Lahore, Islamabad, and Rawalpindi, with ambitious plans for nationwide coverage by 2027. Enhanced mobile broadband and IoT applications became the driving force behind rapid adoption."
+  },
+  {
+    "year": 2025,
+    "event": "Digital Pakistan 2.0 Vision Unleashed",
+    "details": "The government unleashed Digital Pakistan 2.0, a visionary initiative focusing on AI integration, smart city development, and digital governance transformation. This ambitious program aims to catapult internet penetration to 70% and establish Pakistan as the region's premier digital hub by 2030."
+  }
+]

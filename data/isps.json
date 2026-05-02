@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Pakistan Telecommunication Company Limited (PTCL)",
+    "category": "major",
+    "founded": 1996,
+    "services": ["DSL", "Fiber", "Wireless", "Corporate"],
+    "coverage": "Nationwide",
+    "description": "Pakistan's largest telecommunications company and primary fixed-line internet provider. Offers DSL, fiber optic, and wireless broadband services across the country.",
+    "website": "ptcl.com.pk",
+    "marketShare": "45%"
+  },
+  {
+    "name": "Jazz (Mobilink)",
+    "category": "major",
+    "founded": 1994,
+    "services": ["4G", "3G", "Fiber", "Corporate"],
+    "coverage": "Nationwide",
+    "description": "Pakistan's largest mobile network operator, providing extensive 4G coverage and fiber-to-the-home services in major cities.",
+    "website": "jazz.com.pk",
+    "marketShare": "35%"
+  },
+  {
+    "name": "Telenor Pakistan",
+    "category": "major",
+    "founded": 2005,
+    "services": ["4G", "3G", "Corporate"],
+    "coverage": "Nationwide",
+    "description": "Norwegian-owned mobile operator providing comprehensive 4G services across Pakistan with strong rural coverage.",
+    "website": "telenor.com.pk",
+    "marketShare": "25%"
+  },
+  {
+    "name": "Zong (China Mobile Pakistan)",
+    "category": "major",
+    "founded": 2008,
+    "services": ["4G", "3G", "5G Trials"],
+    "coverage": "Nationwide",
+    "description": "Chinese-owned mobile operator, first to launch 4G services in Pakistan and currently conducting 5G trials.",
+    "website": "zong.com.pk",
+    "marketShare": "20%"
+  },
+  {
+    "name": "Ufone",
+    "category": "major",
+    "founded": 2001,
+    "services": ["4G", "3G"],
+    "coverage": "Nationwide",
+    "description": "Pakistani mobile operator owned by PTCL, providing 4G services with focus on affordable data packages.",
+    "website": "ufone.com",
+    "marketShare": "15%"
+  },
+  {
+    "name": "Nayatel",
+    "category": "fiber",
+    "founded": 2002,
+    "services": ["Fiber", "Cable TV", "VoIP"],
+    "coverage": "Islamabad, Rawalpindi, Lahore, Faisalabad",
+    "description": "Leading fiber optic internet provider in major cities, known for high-speed residential and business connections.",
+    "website": "nayatel.com",
+    "marketShare": "3%"
+  },
+  {
+    "name": "StormFiber",
+    "category": "fiber",
+    "founded": 2013,
+    "services": ["Fiber", "Corporate"],
+    "coverage": "Nationwide",
+    "description": "Premium fiber internet provider focusing on high-speed residential and business connectivity in major metropolitan areas.",
+    "website": "stormfiber.com",
+    "marketShare": "2%"
+  },
+  {
+    "name": "Optix",
+    "category": "fiber",
+    "founded": 2010,
+    "services": ["Fiber", "Wireless"],
+    "coverage": "Karachi, Lahore",
+    "description": "Fiber optic internet service provider offering high-speed connections to residential and commercial customers.",
+    "website": "optix.net.pk",
+    "marketShare": "1%"
+  },
+  {
+    "name": "WorldCall",
+    "category": "regional",
+    "founded": 2001,
+    "services": ["DSL", "Wireless", "Corporate"],
+    "coverage": "Major cities",
+    "description": "Telecommunications company providing internet, voice, and data services primarily in urban areas.",
+    "website": "worldcall.com.pk",
+    "marketShare": "2%"
+  },
+  {
+    "name": "Linkdotnet",
+    "category": "regional",
+    "founded": 2000,
+    "services": ["DSL", "Wireless", "Corporate"],
+    "coverage": "Karachi, Lahore, Islamabad",
+    "description": "One of Pakistan's pioneer private ISPs, providing internet services to residential and business customers.",
+    "website": "link.net.pk",
+    "marketShare": "1%"
+  },
+  {
+    "name": "Cyber Internet Services",
+    "category": "regional",
+    "founded": 2000,
+    "services": ["DSL", "Wireless"],
+    "coverage": "Karachi, Lahore",
+    "description": "Early private ISP providing broadband internet services in major metropolitan areas.",
+    "website": "cyber.net.pk",
+    "marketShare": "1%"
+  },
+  {
+    "name": "Wateen Telecom",
+    "category": "wireless",
+    "founded": 2005,
+    "services": ["WiMAX", "LTE", "Corporate"],
+    "coverage": "Major cities",
+    "description": "Pioneer in WiMAX technology in Pakistan, now providing LTE-based wireless broadband services.",
+    "website": "wateen.com",
+    "marketShare": "1%"
+  },
+  {
+    "name": "Multinet Pakistan",
+    "category": "regional",
+    "founded": 2000,
+    "services": ["Cable", "Fiber", "Wireless"],
+    "coverage": "Karachi",
+    "description": "Karachi-based ISP providing cable internet, fiber, and wireless broadband services.",
+    "website": "multinet.pk",
+    "marketShare": "1%"
+  },
+  {
+    "name": "Supernet",
+    "category": "regional",
+    "founded": 2003,
+    "services": ["Wireless", "Corporate"],
+    "coverage": "Lahore, Islamabad",
+    "description": "Wireless internet service provider focusing on business and residential customers in Punjab.",
+    "website": "supernet.com.pk",
+    "marketShare": "0.5%"
+  },
+  {
+    "name": "Brain Telecommunication Limited",
+    "category": "regional",
+    "founded": 2004,
+    "services": ["Wireless", "Corporate"],
+    "coverage": "Karachi, Lahore",
+    "description": "Wireless broadband provider serving business and residential customers in major cities.",
+    "website": "brain.net.pk",
+    "marketShare": "0.5%"
+  },
+  {
+    "name": "Comsats Internet Services",
+    "category": "regional",
+    "founded": 2001,
+    "services": ["DSL", "Wireless", "Corporate"],
+    "coverage": "Islamabad, Lahore",
+    "description": "Academic institution-affiliated ISP providing internet services to educational and commercial sectors.",
+    "website": "comsats.net.pk",
+    "marketShare": "0.5%"
+  },
+  {
+    "name": "Telecard Limited",
+    "category": "regional",
+    "founded": 2002,
+    "services": ["Wireless", "VoIP"],
+    "coverage": "Karachi, Lahore, Islamabad",
+    "description": "Telecommunications company providing wireless internet and VoIP services.",
+    "website": "telecard.com.pk",
+    "marketShare": "0.5%"
+  },
+  {
+    "name": "Nexlinx",
+    "category": "regional",
+    "founded": 2005,
+    "services": ["Wireless", "Corporate"],
+    "coverage": "Karachi",
+    "description": "Karachi-based wireless internet service provider focusing on business connectivity solutions.",
+    "website": "nexlinx.com.pk",
+    "marketShare": "0.3%"
+  },
+  {
+    "name": "Connect Communications",
+    "category": "regional",
+    "founded": 2004,
+    "services": ["Wireless", "Corporate"],
+    "coverage": "Lahore, Faisalabad",
+    "description": "Punjab-based ISP providing wireless broadband and corporate connectivity solutions.",
+    "website": "connect.com.pk",
+    "marketShare": "0.3%"
+  },
+  {
+    "name": "Dancom Online Services",
+    "category": "regional",
+    "founded": 2003,
+    "services": ["DSL", "Wireless"],
+    "coverage": "Karachi, Hyderabad",
+    "description": "Sindh-based internet service provider offering DSL and wireless broadband services.",
+    "website": "dancom.pk",
+    "marketShare": "0.2%"
+  },
+  {
+    "name": "Transworld",
+    "category": "fiber",
+    "founded": 2000,
+    "services": ["Fiber", "Corporate", "Data Centers", "International Connectivity"],
+    "coverage": "Karachi, Lahore, Islamabad",
+    "description": "Leading telecommunications company providing high-speed fiber internet, corporate solutions, and international connectivity services. Known for reliable business-grade internet services.",
+    "website": "transworld.com.pk",
+    "marketShare": "8%"
+  }
+]
